@@ -58,4 +58,4 @@ Allow customization of classification rules and alert thresholds.
 
 Ensure scalability for handling large volumes of emails.
 
-"# MailSense" 
+"# MailSense"
